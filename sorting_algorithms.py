@@ -1,5 +1,4 @@
 import math
-
 import pygame
 import random
 pygame.init()
@@ -173,4 +172,3 @@ def main():
 
 if __name__ == "__main__":
         main()
-# 57:43 video stop point
